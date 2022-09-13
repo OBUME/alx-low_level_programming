@@ -6,7 +6,7 @@
  */
 
 int mai(void)
-{
+	{
 	int a;
 
 	for (a = 0; a < 10; a++)
@@ -20,4 +20,4 @@ int mai(void)
 	}
 	putchar('\n');
 	return (0);
-}
+	}
