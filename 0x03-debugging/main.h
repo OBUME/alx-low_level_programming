@@ -3,9 +3,9 @@
 
 #include <stdio.h>
 
-void positive_or_negative (int i);
-int largest_number (int, int, int);
-void print_remaining_daylight (int, int, int,);
-int convert_daylight (int, int)
+void positive_or_negative(int i);
+int largest_number(int, int, int);
+void print_remaining_daylight(int, int, int);
+int convert_daylight(int, int)
 
 #endif /* MAIN_H */
