@@ -8,7 +8,7 @@ include "main.h"
 
 void print_number(int n)
 {
-	char ld cr;
+	char ld, cr;
 	int r;
 	int ct = 0;
 
