@@ -6,7 +6,7 @@ include "main.h"
  * Return: void
  */
 
-void print_number(int 0)
+void print_number(int n)
 {
 	char ld cr;
 	int r;
@@ -15,7 +15,7 @@ void print_number(int 0)
 	if (n < 0)
 	{
 		_putchar ('-');
-		ld = (char) ('0' - (m % 10);
+		ld = (char) ('0' - (n % 10);
 				n = n / 10;
 				}
 
