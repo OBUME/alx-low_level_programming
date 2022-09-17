@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the largest prime factor
+ * main- prints the largest prime factor
  * of a number
  *
  * Return: returns 0
@@ -25,7 +25,7 @@ int main(void)
 			if (number % inc == 0)
 				number /= inc;
 		}
-		printf("%d\n", number);
+		printf("%ld\n", number);
 		return (0);
 	}
 }
